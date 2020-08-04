@@ -30,12 +30,12 @@ function App(props) {
   return (
     <div className="App">
       <Game
-        venue="Union 525 Gem"
+        venue="Sheridan High School"
         homeTeam={squirrels}
         visitingTeam={raccoons}
       />
       <Game
-        venue="Sheridan Arena"
+        venue="Burlington High School"
         homeTeam={bunnies}
         visitingTeam={hounds}
       />
